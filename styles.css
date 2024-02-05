@@ -22,6 +22,18 @@ main {
   padding-top: 50px;
 }
 
+a {
+  color: yellow; /* Change hyperlink color to yellow */
+}
+
+p {
+  color: #f5f5dc; /* Beige */
+}
+
+footer p {
+  color: rgb(105, 105, 105); /* Make footer text grey */
+}
+
 .row {
   padding: 10pt;
 }
